@@ -1,6 +1,6 @@
 ### AOBA
 
-- 🔭 Atualmente a procura de um trabalho com web programação
+- 🔭 Atualmente a procura de um trabalho com Programação Web
 - 🌱 Estudando JavaScript, HTML5 e CSS3
 - 📫 Como conversar comigo? c não conseguir por telefone por favor entre em contato com o meu e-mail: arthurlinhares69@gmail.com
 <hr>
