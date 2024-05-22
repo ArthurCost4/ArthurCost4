@@ -1,10 +1,5 @@
 ### AOBA
 
-- 🔭 Atualmente a procura de um trabalho com Programação Web
-- 🌱 Estudando JavaScript, HTML5 e CSS3
-- 📫 Como conversar comigo? c não conseguir por telefone por favor entre em contato com o meu e-mail: arthurlinhares69@gmail.com
-<hr>
-
 <div align="inline">
   <a href="https://github.com/ArthurCost4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCost4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
