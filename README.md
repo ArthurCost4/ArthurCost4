@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 AOPA:
 👋 Hi, I’m Arthur Linhares<br>👀 I’m interested in NoSQL.<br>💞️ I’m looking to collaborate in the field of Data Analysis and Developoment of World Society.<br>📫 You can reach me @ arthurlinhares69@gmail.com<br>🤝 I’m looking for help with Data Analysis<br>🌱 I’m currently learning SQL, python, Excel, Power BI<br>💬 Ask me about Data Science<br>⚡ Fun fact I'm play on INTEL Graphics
 
 
